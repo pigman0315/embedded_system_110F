@@ -9,4 +9,4 @@
 ## Lab4 Image Scroller
 - Score: 100/100
 ## Final Project
-- Score: ?/100
+- Score: ?
